@@ -1,4 +1,5 @@
 # Issue Refs
 
 * https://github.com/gcf-samples/issues-with-commit-references/issues/1
+* https://github.com/gcf-samples/issues-with-commit-references/issues/2
 * https://github.com/gcf-samples/issues-with-commit-references/issues/3
